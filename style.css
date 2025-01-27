@@ -57,7 +57,7 @@ body {
   flex-direction: column;
   align-items: center;
 
-  background-color: hsl(30, 18%, 87%);
+  background-color: hsl(30, 54%, 90%);
 }
 
 .content {
@@ -97,9 +97,13 @@ body {
   background-color: hsl(330, 100%, 98%);
 }
 
-.preparation-box h3 {
+.preparation-box h2 {
   margin: 0.5rem;
   color: hsl(332, 51%, 32%);
+
+  font-size: 1.25rem;
+  font-family: inherit;
+  font-weight: 700;
 }
 .preparation-box li {
   color: hsl(332, 51%, 32%);
